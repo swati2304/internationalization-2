@@ -6,5 +6,8 @@ body{
 .select-container{
     font-size: 30px;
     border-radius: 10px;
-    width: 170px;
+    width: 200px;
+    background-color: aqua;
+    height: 60px;
+    border: solid 2px grey dotted;
 }
