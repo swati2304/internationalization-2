@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: rgb(157, 133, 175)79, 216;
+    font-size: 30px;
+}
+.select-container{
+    font-size: 30px;
+    border-radius: 10px;
+    width: 170px;
+}

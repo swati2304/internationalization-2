@@ -1,0 +1,20 @@
+{
+    "en":{
+        "welcomeMassage" : "Welcome",
+        "helpingMassage" : "I hope you will very well.",
+        "helpMassage" : "I hope we will helping you",
+        "massage" : "We are help of lots of people."
+    },
+    "mr":{
+        "welcomeMassage" : "स्वागत आहे ",
+        "helpingMassage" : "मला आशा आहे की तुम्ही खूप चांगले व्हाल",
+        "helpMassage" : "मला आशा आहे की आम्ही तुम्हाला मदत करू",
+        "massage" : "आम्ही अनेक लोकांना मदत करतो"
+    },
+    "hn":{
+        "welcomeMassage" : "आपका स्वागत है ",
+        "helpingMassage" : "मुझे आशा है कि आप बहुत अच्छे होंगे",
+        "helpMassage" : "मुझे उम्मीद है हम आपकी मदद करेंगे",
+        "massage" : "हम बहुत से लोगों की मदद कर रहे हैं"
+    }
+}
